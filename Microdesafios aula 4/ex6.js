@@ -1,0 +1,1 @@
+7>40 ? console.log('O 7 é o maior'):console.log('O 40 é maior');
