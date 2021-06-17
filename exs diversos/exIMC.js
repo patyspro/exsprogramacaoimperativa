@@ -5,3 +5,4 @@ function IMC(peso,altura){
 }
 
 console.log(IMC(55,160).toFixed(2));
+
